@@ -6,26 +6,26 @@ This repository contains a dataset of Netflix movies and TV shows, along with a 
 # Dataset
 The dataset is provided in CSV format and is located in the data directory. The dataset contains 7787 rows and 12 columns, with each row representing a unique Netflix title. The columns are as follows:
 
-# show_id: Unique identifier for the title
+ **show_id** : Unique identifier for the title
 
-# type: Indicates whether the title is a movie or TV show
+**type**: Indicates whether the title is a movie or TV show
 
-# title: Title of the movie or TV show
+**title**: Title of the movie or TV show
 
-# director: Director of the title
+**director**: Director of the title
 
-# cast: Actors and actresses in the title
+**cast**: Actors and actresses in the title
 
-# country: Country of origin
+**country**: Country of origin
 
-# date_added: Date when the title was added to Netflix
+**date_added**: Date when the title was added to Netflix
 
-# release_year: Release year of the title
+**release_year**: Release year of the title
 
-# rating: Age rating of the title
+**rating**: Age rating of the title
 
-# duration: Length of the title in minutes or seasons
+**duration**: Length of the title in minutes or seasons
 
-# listed_in: Genres the title is listed under
+**listed_in**: Genres the title is listed under
 
-# description: Brief summary of the title
+**description**: Brief summary of the title
